@@ -1,0 +1,22 @@
+{
+  "name": "express-essentials",
+  "version": "1.0.0",
+  "description": "An introduction to building a backend with express.js",
+  "main": "express.ipynb",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgome284/express-essentials.git"
+  },
+  "author": "Jose M. Gomez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgome284/express-essentials/issues"
+  },
+  "homepage": "https://github.com/jgome284/express-essentials#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
